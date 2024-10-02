@@ -1,0 +1,25 @@
+nombre,apellido,edad,sexo,pais de origen,estado civil,cantidad de hijos,ocupacion,ciudad,tipo de vivienda
+felipe,martinez,29,M,chile,casado,1,ingeniero,valparaiso,casa
+lucia,reyes,34,F,argentina,soltera,0,diseñador,cordoba,departamento
+carlos,gonazales,41,M,mexico,casado,2,abogado,ciudad de mexico,casa
+valentina,perez,27,F,venezuela,divorciada ,1,psicologo,caracas,departamento
+javier,silva,39,M,colombia,casado,3,gerente,bogota,casa
+sofia,nunez,32,F,uruguay,casada,2,chef,montevideo,departamento
+diego,cruz,36,M,peru,casado,2,profesor,lima,casa
+ana,maldonado,28,F,costa rica,casada,1,artista,san jose,casa
+ricardo,hernandez,48,M,ecuador,casado,3,economista,quito,casa
+gabriela,castillo,29,F,costa rica,casada,1,artista,san jose,casa
+fernando,jimenez,35,M,españa,casado,2,ingeniero,madrid,departamento
+clara,aguilar,30,F,chile,soltera,0,investigador,santiago,casa
+nicolas,rios,43,M,argentina,casado,4,comerciante,buenos aires,departamento
+patricia,fuentes,31,F,venezuela,divorciada,1,medico,maracaibo,casa
+samuel,salazar,37,M,peru,soltera,0,estudiante,lima,casa
+laura,diaz,26,F,peru,soltera,0,estudiante,lima,casa
+diego,bravo,38,M,dominicana,casado,2,docente,santo domingo,casa
+claudia,perez,30,F,costa rica,casada,1,bailarin,san jose,departamento
+jorge,montes,40,M,venezuela,casado,3,arquitecto,caracas,casa
+isabel,ramirez,27,F,uruguay,soltera,0,fotografo,montevideo,departamento
+felipe,aguilar,34,M,colombia,casado,2,gerente,bogota,casa
+valeria,castro,29,F,mexico,casada,1,cocinero,tijuana,casa
+ricardo,nunez,44,M,ecuador,casado,4,contador,quito,departamento
+maria,cruz,33,F,argentina,divorciada,1,psicologo,cordoba,casa
